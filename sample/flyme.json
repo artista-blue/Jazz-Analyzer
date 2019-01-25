@@ -1,0 +1,10 @@
+[
+    {"root": "A", "harmony":"m7"}, {"root": "D", "harmony": "m7"}, {"root": "G", "harmony": "7"}, {"root": "C", "harmony": "M7"},
+    {"root": "F", "harmony":"M7"}, {"root": "B", "harmony":"m7-5"}, {"root": "E", "harmony":"7"}, {"root": "A", "harmony":"m7"}, {"root": "A", "harmony":"7"},
+    {"root": "D", "harmony":"m7"}, {"root": "G", "harmony":"7"}, {"root": "C", "harmony":"M7"}, {"root": "A", "harmony":"7"},
+    {"root": "D", "harmony":"m7"}, {"root": "G", "harmony":"7"}, {"root": "C", "harmony":"M7"}, {"root": "B", "harmony":"m7-5"}, {"root": "E", "harmony": "7"},
+    {"root": "A", "harmony":"m7"}, {"root": "D", "harmony": "m7"}, {"root": "G", "harmony": "7"}, {"root": "C", "harmony": "M7"},
+    {"root": "F", "harmony":"M7"}, {"root": "B", "harmony":"m7-5"}, {"root": "E", "harmony":"7"}, {"root": "A", "harmony":"m7"}, {"root": "A", "harmony":"7"},
+    {"root": "D", "harmony":"m7"}, {"root": "D#", "harmony":"dim"}, {"root": "E", "harmony":"m7"}, {"root": "A", "harmony":"7"},
+    {"root": "D", "harmony":"m7"}, {"root": "G", "harmony":"7"}, {"root": "C", "harmony":"M7"}, {"root": "B", "harmony":"m7-5"}, {"root": "E", "harmony": "7"}
+]
